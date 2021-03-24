@@ -1,0 +1,6 @@
+flask
+pymysql
+bcrypt
+flask_sqlalchemy
+flask_marshmallow
+flask-cors
